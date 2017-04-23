@@ -18,3 +18,18 @@ const isPalindrome = (str) => {
   }
 };
 export default isPalindrome;
+
+/* -- Второй вариант с рекурсией
+const isPalindrome = (string) => {
+  if (strings.length(string) <= 1) {
+    return true;
+  }
+  if (string[0] !== string[strings.length(string) - 1]) {
+    return false;
+  }
+
+  return isPalindrome(strings.substr(string, 1, strings.length(string) - 2));
+};
+
+export default isPalindrome;
+*/
