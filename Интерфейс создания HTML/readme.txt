@@ -1,4 +1,5 @@
-hexlet-pairs-data и hexlet-pairs - сторонние библиотеки портала HEXLET
+hexlet-pairs-data и hexlet-pairs - hexlet's libraries
+https://ru.hexlet.io
 -----------------
 hexlet-pairs-data
 -----------------
